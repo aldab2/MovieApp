@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="array_sort_by_labels"  >
+        <item>popular</item>
+        <item>Top Rated</item>
+        <item>Now Playing</item>
+        <item>Upcoming</item>
+        <item>Favorite</item>
+    </array>
+    <array name="array_sort_by_keys">
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>now_playing</item>
+        <item>upcoming</item>
+        <item>@string/btn_favorite</item>
+    </array>
+
+</resources>

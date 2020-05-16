@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+    <item android:title="Settings"
+        android:id="@+id/menu_settings"
+        app:showAsAction="always"></item>
+   <!-- <item
+        android:id="@+id/menu_item_popular"
+        android:title="@string/popular"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/menu_item_rating"
+        android:title="@string/rating"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/menu_item_now_playing"
+        android:title="@string/now_playing"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/menu_item_upcoming"
+        android:title="@string/upcoming"
+        app:showAsAction="never"
+        ></item>-->
+
+</menu>
